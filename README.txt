@@ -34,7 +34,7 @@ Data Files
 
 In order to generate plots, you need to run plot_nn.py and plot_opt via python 3. plot_nn was used for neural network plots and plot_opt for optimization problem.
 
-To download the dataset:
+To download the dataset(White wine quality):
 https://archive.ics.uci.edu/ml/datasets/wine+quality
 
 To generate the data files from the original data, run the parse_data.py code and the DUMPER.py code in the Datasets folder. The data files should then be moved one level up, to reside in the same directory as the assignment 2 code files.
